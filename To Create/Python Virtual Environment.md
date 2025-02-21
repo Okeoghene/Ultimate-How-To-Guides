@@ -57,4 +57,5 @@ deactivate
 ---
 
 To learn more *about* Python Virtual Environment, [click here.]()
+
 To *verify* that your Python is installed and works properly on your Windows machine, [click here.]()
