@@ -34,10 +34,12 @@
    ```
 4. Now, simply run:
    ```powershell
-   activatevenv
+   NameOfTheAlias
    ```
 
-It is important to note that if your alias works in CMD but not in PowerShell, it is because PowerShell does not use the same alias system as CMD. PowerShell does not recognize batch file aliases added via the Path environment variable the same way CMD does.
-That said if you want an alias to function on both CMD and Powershell you have to use the same name for the alias when you are creating it for Powershell and CMD.
+If your alias works in CMD but not in PowerShell, it is because PowerShell does not use the same alias system as CMD. PowerShell does not recognize batch file aliases added via the Path environment variable the same way CMD does.
+If you want an alias to function on both CMD and Powershell, you must use the same name when creating it for both.
+
+If you want to know more *about* Aliases, [click here.]()
 
 ---
